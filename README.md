@@ -19,8 +19,8 @@ This repository contains the implementation for the paper *"[Robust AI-ECG for P
     - `ViT_MAE_24ch.py`: ViT-MAE model for pre-training 
     - `resnet.py`: ResNet model for classification
 - `preprocessing/postprocessing`: code for preprocessing/postprocessing
-- `data.py`: dataset class
-- `train_model.py`: main training code for single models
+- `data.py`: dataset
+- `train_model.py`: main training code for single model
 - `utils.py`: random utility functions
 
 
