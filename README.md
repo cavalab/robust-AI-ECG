@@ -1,4 +1,4 @@
-# Robust AI-ECG for Pediatric
+# Robust AI-ECG for Pediatric Cardiology
 
 This repository contains the implementation for the paper *"[Robust AI-ECG for Predicting Left Ventricular Systolic Dysfunction in Pediatric Congenital Heart Disease](https://arxiv.org/abs/2509.19564)"*, focusing on building robust AI-ECG models to predict LVSD. 
 
